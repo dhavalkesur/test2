@@ -9,12 +9,12 @@ public class Main {
             j = i;
         }
         System.out.println(j);
-        int test = Main.outputData();
+        String test = Main.outputData();
     }
 
-    public static Integer outputData()
+    public static String outputData()
     {
-        return 0;
+        return "";
     }
 }
 
